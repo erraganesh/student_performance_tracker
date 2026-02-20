@@ -1,2 +1,0 @@
-# student_performance_tracker
-student_performance_tracker
